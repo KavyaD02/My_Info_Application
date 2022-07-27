@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">aplicación</string>
+    <string name="sign_in">iniciar sesión</string>
+    <string name="username">el nombre de usuario</string>
+    <string name="welcome">bienvenido</string>
+    <string name="password">la contraseña</string>
+    <string name="login">el login</string>
+    <string name="register">registrar</string>
+    <string name="sign_up">inscribirse</string>
+</resources>

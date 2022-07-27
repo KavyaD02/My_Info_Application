@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Info</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="welcome">Welcome</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign up</string>
+    <string name="retype_password">Retype password</string>
+    <string name="select">Select</string>
+    <string name="view_entries">View entries</string>
+    <string name="make_new_entry">Make new entry</string>
+    <string name="enter">Enter</string>
+</resources>

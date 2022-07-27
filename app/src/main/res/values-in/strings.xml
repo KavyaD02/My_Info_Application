@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">मेरी जानकारी</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="welcome">स्वागत</string>
+    <string name="password">पासवर्ड</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="sign_up">साइन अप करें</string>
+</resources>
